@@ -116,16 +116,7 @@ Listener on port 80 that forwards traffic to the target group.
 - Public access via ALB DNS name
 - Static file hosting support with S3
 
----
 
-## 🚀 Next Steps (Optional)
-
-- Add output values in `outputs.tf`
-- Organize variables into `variables.tf` and `terraform.tfvars`
-- Add remote backend support for state storage
-- Implement autoscaling groups
-
----
 <img width="1358" height="388" alt="Screenshot 2025-07-14 162827" src="https://github.com/user-attachments/assets/60dbf20a-0979-46c8-baed-40cad2b3f7fc" />
 
 
