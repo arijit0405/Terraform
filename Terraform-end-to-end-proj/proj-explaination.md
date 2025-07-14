@@ -126,5 +126,8 @@ Listener on port 80 that forwards traffic to the target group.
 - Implement autoscaling groups
 
 ---
+<img width="1358" height="388" alt="Screenshot 2025-07-14 162827" src="https://github.com/user-attachments/assets/60dbf20a-0979-46c8-baed-40cad2b3f7fc" />
 
-*Project Completed On:* **{datetime.now().strftime("%Y-%m-%d")}**
+
+<img width="1365" height="430" alt="Screenshot 2025-07-14 162814" src="https://github.com/user-attachments/assets/7d3eac3b-f408-41f6-a24b-ed4b5d8f307d" />
+
