@@ -1,4 +1,8 @@
 
+
+<img width="971" height="540" alt="Screenshot 2025-07-12 112522" src="https://github.com/user-attachments/assets/29acc2fc-8a93-4991-8b75-ebd703a395af" />
+
+
 # 🛠️ End-to-End AWS Infrastructure Project using Terraform
 
 This document explains step-by-step what was done in this real-world AWS infrastructure project using Terraform.
